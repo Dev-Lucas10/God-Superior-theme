@@ -4,7 +4,7 @@
 
 A dark theme for visual studio code
 
-![screenshot](https://raw.githubusercontent.com/igornfaustino/emerald-vscode-theme/main/screenshot.png)
+![screenshot](https://raw.githubusercontent.com/Dev-Lucas10/God-Superior-theme/main/screenshot.png)
 
 ## Install
 - Go to View -> Command Palette or press Ctrl+Shift+P
