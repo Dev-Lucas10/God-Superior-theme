@@ -1,6 +1,6 @@
 # God Superior for Visual Studio Code
 
-<img src="https://raw.githubusercontent.com/igornfaustino/emerald-vscode-theme/main/icon-v2.png" width="100"/>
+<img src="https://raw.githubusercontent.com/Dev-Lucas10/God-Superior-theme/main/ico-ZS.png" width="100"/>
 
 A dark theme for visual studio code
 
