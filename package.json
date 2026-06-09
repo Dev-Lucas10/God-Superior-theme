@@ -3,6 +3,8 @@
   "displayName": "God Superior",
   "description": "God Superior. A dark theme for visual studio code",
   "version": "0.0.1",
+  "publisher": "#",
+  "repository": "https://github.com/igornfaustino/emerald-vscode-theme",
   "engines": {
     "vscode": "^1.120.0"
   },
