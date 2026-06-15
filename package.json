@@ -3,7 +3,7 @@
   "displayName": "God Superior",
   "description": "God Superior. A dark theme for visual studio code",
   "version": "0.0.1",
-  "publisher": "#",
+  "publisher": "L10TEC",
   "repository": "https://github.com/Dev-Lucas10/God-Superior-theme",
   "engines": {
     "vscode": "^1.120.0"
