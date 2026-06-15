@@ -9,7 +9,7 @@ A dark theme for visual studio code
 ## Install
 - Go to View -> Command Palette or press Ctrl+Shift+P
 - Then enter Install Extension
-- Write emerald
+- Write God Superior
 - Select it or press Enter to install
 
 ## Contributing
